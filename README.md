@@ -1,4 +1,5 @@
 Problem Statement
+
 Analyze and visualize customer churn data for a telecom company and explore customer demographics, offers, contract types, payment methods and service usage
 
 Identify factors that contribute to customer churn.  
